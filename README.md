@@ -1,7 +1,3 @@
-¡Por supuesto\! Aquí tienes un archivo `README.md` completo y actualizado para el proyecto, incorporando la nueva y más avanzada **"Gestión de Riesgo por Zonas"** que discutimos.
-
-Este documento está listo para ser subido a cualquier plataforma como GitHub o Read the Docs.
-
 -----
 
 # Risk Manager Pro EA para MetaTrader 5
